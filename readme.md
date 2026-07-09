@@ -45,6 +45,8 @@
 | 26         | sexual desire   |
 | 27         | surprised       |
 
+⭐ **Note:** The publicly released dataset includes data from trials where the self report rating score was either 4 or 5. Data points with self report ratings of 1, 2, or 3 were filtered out and are not included in the public release.
+
 -----
 
 ### 👤 Participant Information
